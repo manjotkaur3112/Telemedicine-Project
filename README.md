@@ -2,7 +2,7 @@
 
 A modern, scalable, and secure Telemedicine Platform that enables patients and doctors to connect remotely through video consultations, online appointments, chat messaging, and digital prescriptions. This system improves healthcare accessibility, especially for rural areas and emergency use cases.
 
-📌 Features
+Features
 
 👨‍⚕️ For Patients
 
@@ -36,7 +36,7 @@ Monitor overall system health
 
 Track appointments and logs
 
-📊 ER Diagram (Key Entities)
+ER Diagram (Key Entities)
 
 Patient (ID, name, age, reports, history)
 
@@ -48,6 +48,6 @@ Prescription (ID, appointmentID, medicines, notes)
 
 ChatMessage (messageID, senderID, receiverID, timestamp, text)
 
-✅ Conclusion
+Conclusion
 
 This Telemedicine Platform delivers a complete digital healthcare solution with secure video consultations, online scheduling, digital prescriptions, and robust security practices. Its microservice-based architecture ensures scalability and future expansion, making it suitable for real healthcare deployment.
